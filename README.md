@@ -9,6 +9,7 @@ which predicts 10 classses like t-shirt, torso, sneaker etc based on the trained
   * Model Architecture
   * Trainning and Optimization
 * Result
+* Requirements (Must Read)
 * Usage (Must Read)
 
 ## Data Analysis
