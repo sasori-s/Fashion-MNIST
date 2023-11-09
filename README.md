@@ -3,6 +3,8 @@
 This repository contains analysis and training a deep learning model on infamous Fashion-MNIST dataset 
 which predicts 10 classses like t-shirt, torso, sneaker etc based on the trained model.
 
+https://colab.research.google.com/drive/1kWfCmMfjiaNB2xEtLN9nEdijKjNV1k57?usp=sharing
+
 ## Table of Contents
 * Data Analysis
 * Model Developement
